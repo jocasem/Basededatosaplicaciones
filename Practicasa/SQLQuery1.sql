@@ -14,3 +14,5 @@ go
 exec sp_solicitgar_promedio_prod 2
 
 exec sp_solicitgar_promedio_prod @catego = 5
+
+exec sp_solicitgar_promedio_prod @catego = 4
