@@ -11,6 +11,8 @@
 create database mergeEscuelita
 go
 
+use NORTHWND
+
 use mergeEscuelita
 CREATE TABLE StudentsC1(
     StudentID       INT
